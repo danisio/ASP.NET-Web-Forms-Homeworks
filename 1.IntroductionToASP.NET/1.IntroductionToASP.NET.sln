@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.WebForms", "Task1.WebForms\Task1.WebForms.csproj", "{B2C6CBE5-7DA7-43C9-BC39-FD85CA528764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.MVC", "Task1.MVC\Task1.MVC.csproj", "{6A7D429D-F861-48F8-ADFB-2A9ACAA82F26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.WebAPI", "Task1.WebAPI\Task1.WebAPI.csproj", "{4BEE7731-108E-41FB-8497-B9156480D08F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.SPA", "Task1.SPA\Task1.SPA.csproj", "{520AC400-8759-4798-9FD7-34661DCF1925}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2.CalculatorWebForms", "Task2.CalculatorWebForms\Task2.CalculatorWebForms.csproj", "{9CE0E0BE-93D4-497C-A8F6-43413FBFB6FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2.CalculatorMVC", "Task2.CalculatorMVC\Task2.CalculatorMVC.csproj", "{718787EE-49AE-4C85-A6BA-B982A11CEFC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3.TextToImage", "Task3.TextToImage\Task3.TextToImage.csproj", "{A3918E2B-063F-4BF0-92FC-0471DAC6401C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2C6CBE5-7DA7-43C9-BC39-FD85CA528764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C6CBE5-7DA7-43C9-BC39-FD85CA528764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C6CBE5-7DA7-43C9-BC39-FD85CA528764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C6CBE5-7DA7-43C9-BC39-FD85CA528764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A7D429D-F861-48F8-ADFB-2A9ACAA82F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7D429D-F861-48F8-ADFB-2A9ACAA82F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7D429D-F861-48F8-ADFB-2A9ACAA82F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7D429D-F861-48F8-ADFB-2A9ACAA82F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BEE7731-108E-41FB-8497-B9156480D08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BEE7731-108E-41FB-8497-B9156480D08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BEE7731-108E-41FB-8497-B9156480D08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BEE7731-108E-41FB-8497-B9156480D08F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{520AC400-8759-4798-9FD7-34661DCF1925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520AC400-8759-4798-9FD7-34661DCF1925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520AC400-8759-4798-9FD7-34661DCF1925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520AC400-8759-4798-9FD7-34661DCF1925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CE0E0BE-93D4-497C-A8F6-43413FBFB6FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE0E0BE-93D4-497C-A8F6-43413FBFB6FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE0E0BE-93D4-497C-A8F6-43413FBFB6FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE0E0BE-93D4-497C-A8F6-43413FBFB6FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{718787EE-49AE-4C85-A6BA-B982A11CEFC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{718787EE-49AE-4C85-A6BA-B982A11CEFC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{718787EE-49AE-4C85-A6BA-B982A11CEFC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{718787EE-49AE-4C85-A6BA-B982A11CEFC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3918E2B-063F-4BF0-92FC-0471DAC6401C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3918E2B-063F-4BF0-92FC-0471DAC6401C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3918E2B-063F-4BF0-92FC-0471DAC6401C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3918E2B-063F-4BF0-92FC-0471DAC6401C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
